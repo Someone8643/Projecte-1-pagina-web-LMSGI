@@ -21,3 +21,11 @@ h1, p {
 .imatgeDescripcio > img {
 	width: 60%;
 }
+
+header {
+	display: flex;
+	flex-direction: row;
+	gap: 200px;
+	
+
+}
