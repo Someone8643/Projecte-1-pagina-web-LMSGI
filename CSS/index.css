@@ -14,3 +14,7 @@ nav {
 h1, h2, p {
 	text-align: center;
 }
+
+img {
+	margin: auto;
+}
