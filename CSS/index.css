@@ -1,31 +1,56 @@
 body {
+	
 	background-color: #5d5c5c;
 }
 
-nav {
-	background-color: #333;
-	color: white;
-}
-
 h1, p {
+	
 	text-align: center;
 }
 
 .imatgeDescripcio {
+	
 	display: flex;
 	justify-content: center;
 	justify-items: center;
-
 }
 
 .imatgeDescripcio > img {
+	
 	width: 60%;
 }
 
+/* Tot lo del menú de navegació per copiar a altres CSSs */
+
 header {
+
 	display: flex;
 	flex-direction: row;
+	
+	background-color: #8BCCC8;
+	border: 4px solid paleturquoise;
+
 	gap: 200px;
+}
+
+.logo {
 	
 
+}
+
+nav {
+	
+	background-color: #333;
+	color: white;
+}
+
+.linkNavegacio {
+	
+	color: lightblue;
+	text-decoration: none;
+}
+
+.linkNavegacio:hover {
+
+	text-decoration: underline;
 }
