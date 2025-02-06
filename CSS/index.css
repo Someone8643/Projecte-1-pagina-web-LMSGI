@@ -11,7 +11,7 @@ h1, h2, p {
 	text-align: center;
 }
 
-.imatgeDescripcio {
+img {
 	display: flex;
 	justify-content: center;
 	justify-items: center;
