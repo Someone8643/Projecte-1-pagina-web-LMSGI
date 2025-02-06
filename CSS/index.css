@@ -7,12 +7,17 @@ nav {
 	color: white;
 }
 
-h1, h2, p {
+h1, p {
 	text-align: center;
 }
 
-img {
+.imatgeDescripcio {
 	display: flex;
 	justify-content: center;
 	justify-items: center;
+
+}
+
+.imatgeDescripcio > img {
+	width: 60%;
 }
