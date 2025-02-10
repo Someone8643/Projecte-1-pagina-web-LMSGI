@@ -6,6 +6,9 @@
 
 body {
     font-family: ralewayRegular;
+	background-color: #5d5c5c;
+	display: grid;
+	gap: 20px;
 }
 /* Fí font */
 
