@@ -1,0 +1,29 @@
+
+/* Font general */
+@font-face {
+    font-family: ralewayRegular;
+    src: url(Raleway-Regular.ttf);
+}
+
+body {
+    font-family: ralewayRegular;
+}
+
+
+
+table {
+    margin: auto;
+    width: 100%;
+}
+
+table, th, td {
+    padding: 10px;
+    border-spacing: 20px;
+    text-align: center;
+    border: 2px solid #B6FFC7;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 20px;
+}
