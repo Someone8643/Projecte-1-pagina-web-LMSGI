@@ -6,6 +6,9 @@
 
 body {
     font-family: ralewayRegular;
+	background-color: #5d5c5c;
+	display: grid;
+	gap: 20px;
 }
 /* Fí font */
 
@@ -65,3 +68,41 @@ footer{
 	border-radius: 20px;
 }
 /* Fí footer */
+
+table {
+    margin: auto;
+    width: 100%;
+    color: white;
+}
+
+table, th, td {
+    padding: 10px;
+    border-spacing: 20px;
+    text-align: center;
+    border: 2px solid #B6FFC7;
+    border-collapse: collapse;
+}
+
+th {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+	color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.iframeCat {
+    display: flex;
+	justify-content: center;
+	justify-items: center;
+    margin: 20px;
+}
+
+caption {
+    font-size: 30px;
+}

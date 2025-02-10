@@ -6,6 +6,9 @@
 
 body {
     font-family: ralewayRegular;
+	background-color: #5d5c5c;
+	display: grid;
+	gap: 20px;
 }
 /* Fí font */
 
@@ -69,6 +72,7 @@ footer{
 table {
     margin: auto;
     width: 100%;
+    color: white;
 }
 
 table, th, td {
@@ -81,4 +85,13 @@ table, th, td {
 
 th {
     font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+	color: white;
+}
+
+a:hover {
+    text-decoration: underline;
 }

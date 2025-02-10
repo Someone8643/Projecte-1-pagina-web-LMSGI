@@ -6,15 +6,11 @@
 
 body {
     font-family: ralewayRegular;
-}
-/* Fí font */
-
-body {
-	
 	background-color: #5d5c5c;
 	display: grid;
 	gap: 20px;
 }
+/* Fí font */
 
 h1, p {
 	
