@@ -1,3 +1,13 @@
+/* Font general */
+@font-face {
+    font-family: ralewayRegular;
+    src: url(Raleway-Regular.ttf);
+}
+
+body {
+    font-family: ralewayRegular;
+}
+/* Fí font */
 
 body {
 	
