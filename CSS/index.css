@@ -69,3 +69,12 @@ nav {
 	background-color: #555;
 	border-radius: 20px;
 }
+
+footer{
+	
+	background-color: #fbfbfb30;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	border-radius: 20px;
+}
