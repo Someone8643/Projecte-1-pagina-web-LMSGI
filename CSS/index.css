@@ -34,7 +34,6 @@ h1, p {
 }
 
 /* Tot lo del menú de navegació per copiar a altres CSSs */
-
 header {
 
 	display: flex;
@@ -79,12 +78,14 @@ nav {
 	background-color: #555;
 	border-radius: 20px;
 }
+/* Fí menú de navegació*/
 
+/* Footer */
 footer{
-	
 	background-color: #fbfbfb30;
 	display: flex;
 	justify-content: center;
 	justify-items: center;
 	border-radius: 20px;
 }
+/* Fí footer */
