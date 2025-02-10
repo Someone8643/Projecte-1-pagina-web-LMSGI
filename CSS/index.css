@@ -12,23 +12,6 @@ body {
 }
 /* Fí font */
 
-h1, p {
-	
-	text-align: center;
-}
-
-.imatgeDescripcio {
-	
-	display: flex;
-	justify-content: center;
-	justify-items: center;
-}
-
-.imatgeDescripcio > img {
-	
-	width: 60%;
-}
-
 /* Tot lo del menú de navegació per copiar a altres CSSs */
 header {
 
@@ -85,3 +68,21 @@ footer{
 	border-radius: 20px;
 }
 /* Fí footer */
+
+h1, p {
+	
+	text-align: center;
+	color: white;
+}
+
+.imatgeDescripcio {
+	
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+}
+
+.imatgeDescripcio > img {
+	
+	width: 60%;
+}

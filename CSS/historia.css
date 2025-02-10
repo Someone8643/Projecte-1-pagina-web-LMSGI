@@ -68,3 +68,16 @@ footer{
 	border-radius: 20px;
 }
 /* Fí footer */
+
+p {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+li {
+    color: white;
+}
