@@ -83,6 +83,6 @@ h1, p {
 }
 
 .imatgeDescripcio > img {
-	
+	border-radius: 30px;
 	width: 60%;
 }
